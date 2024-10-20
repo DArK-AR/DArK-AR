@@ -5,7 +5,7 @@
 - 📫 How to reach me
 -    Contact on my whatsapp number 9105802972
 - 😄 Pronouns: He
-- ⚡ Fun fact: is build application like writing Application 
+- ⚡ Fun fact: is build application like writing Application tactics
 
 <!---
 DArK-AR/DArK-AR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
